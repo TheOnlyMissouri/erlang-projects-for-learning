@@ -1,0 +1,47 @@
+# ====================
+# Erlang Project Files
+# ====================
+
+# Compiled Beam files
+*.beam
+
+# Boot files
+*.boot
+
+# Dump files
+*.dump
+
+# Log files
+*.log
+
+# Build directories
+_build/
+ebin/
+deps/
+
+# Dependencies
+_rebar.lock
+_rebar3.lock
+
+# Package manager files
+*.tgz
+*.zip
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# IDE/editor directories and files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+*.swp
+*~
+
+# Temporary files
+*.tmp
+*.temp
+
+# Coverage reports
+cover/
